@@ -1,0 +1,6 @@
+
+moderngl==5.11.1
+moderngl-window==2.4.6
+PyWavefront==1.3.3
+pyrr==0.10.3
+libigl==2.5.1
